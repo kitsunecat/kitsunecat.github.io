@@ -25,6 +25,7 @@ a {
 
 a:hover {
   color: #555;
+  text-decoration: underline;
 }
 /* タイトル・メニュー部分 */
 
