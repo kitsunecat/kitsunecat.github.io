@@ -29,7 +29,7 @@ a:hover {
 /* タイトル・メニュー部分 */
 
 .topmenu {
-  background-image: url(../img/title_bg.jpg);
+  background-image: url('../img/title_bg.jpg');
   background-size: cover;
   border-bottom: 1px solid;
   height: 80vh;
