@@ -96,6 +96,10 @@ a:hover {
   width: 80%;
 }
 
+.link-prf:hover {
+  text-decoration: none;
+}
+
 .tech-img {
   height: 100px;
   margin: 10px;
