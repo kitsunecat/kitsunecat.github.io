@@ -1,18 +1,17 @@
-// jQuery
 $(document).ready(function(){
 lastNo = '';
 
-//workのサムネイルをクリックしたら詳細をスライドして開く
   $('.work-thum').on('click', function(){
-    $('.work').hide('fast');
     var workNo = '#work' + $(this).attr("id");
     if (workNo === lastNo) {
-      console.log(workNo);
-      console.log(lastNo);
-      return;
+      $(workNo).toggle('fast');
+      lastNo = '';
+    } else {
+      $('.work').hide('fast');
+      $(workNo).show('fast');
+      $("html,body").animate({scrollTop:$('#works').offset().top});
+      lastNo = workNo;
     }
-    $(workNo).show('fast');
-    $("html,body").animate({scrollTop:$('#works').offset().top});
-    lastNo = workNo;
+
   })
 })

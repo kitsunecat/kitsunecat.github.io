@@ -68,6 +68,53 @@ a:hover {
   background-color: rgb(255, 255, 255, 0.7);
 }
 
+/* WORKS */
+.works {
+  border-bottom: solid 1px #555;
+  margin: 0 auto;
+  text-align: center;
+  width: 60%;
+}
+
+.work-thum:hover {
+  cursor: pointer;
+}
+
+.works > img {
+  border: solid 1px #aaa;
+  height: auto;
+  margin: 10px;
+  width: 250px;
+}
+
+.work {
+  border-top: solid 1px #aaa;
+  padding: 0;
+}
+
+.work img {
+  width: 500px;
+  height: auto;
+}
+
+.work > div {
+  border-bottom: solid 1px #555;
+  margin: 10px auto;
+  padding: 0;
+}
+
+.work > div > div {
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 0;
+  vertical-align: middle;
+  width: 40%;
+}
+
+.work .content {
+  text-align: left;
+}
+
 /* プロフィール */
 .profile {
   border-bottom: solid 1px #555;
@@ -103,49 +150,4 @@ a:hover {
 .tech-img {
   height: 100px;
   margin: 10px;
-}
-
-/* WORKS */
-.works {
-  text-align: center;
-}
-
-.work-thum:hover {
-  cursor: pointer;
-}
-
-.works > img {
-  border: solid 1px #aaa;
-  height: auto;
-  margin: 10px;
-  width: 250px;
-}
-
-.work {
-  border-top: solid 1px #aaa;
-  padding: 0;
-}
-
-.work img {
-  width: 500px;
-  height: auto;
-}
-
-.work > div {
-  border-bottom: solid 1px #555;
-  margin: 10px auto;
-  padding: 0;
-  width: 60%;
-}
-
-.work > div > div {
-  display: inline-block;
-  margin-bottom: 10px;
-  padding: 0;
-  vertical-align: middle;
-  width: 40%;
-}
-
-.work .content {
-  text-align: left;
 }
