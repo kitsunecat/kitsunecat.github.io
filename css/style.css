@@ -1,5 +1,5 @@
 /* 全体 */
-@import url(https://fonts.googleapis.com/css?family=Raleway|M+PLUS+Rounded+1c|Rajdhani);
+@import url(https://fonts.googleapis.com/css?family=Archivo+Black|Raleway|M+PLUS+Rounded+1c|Rajdhani);
 
 body {
   color: #555;
@@ -33,16 +33,16 @@ a:hover {
   background-image: url(../img/title_bg.jpg);
   background-size: cover;
   border-bottom: 1px solid;
-  height: 80vh;
+  height: 50vh;
   margin: 0;
   overflow: hidden;
 }
 
 .topmenu > h1 {
   color: #eee;
-  font-family: 'Raleway', sans-serif;
-  font-size: 6em;
-  margin: 15% auto 0;
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 10vw;
+  margin: 10% auto 0;
   text-align: center;
 }
 
