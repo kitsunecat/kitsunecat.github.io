@@ -10,6 +10,7 @@
 |Twitter|[@tobinekodori](https://twitter.com/tobinekodori)|
 |GitHub|[kitsunecat](https://github.com/kitsunecat)
 |Qiita|[kitsunecat](http://qiita.com/kitsunecat)|
+|Wantedly|[NishimuraTetsu](https://www.wantedly.com/users/17916821)
 
 ## スキル
 習得レベルについて
