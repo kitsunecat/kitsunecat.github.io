@@ -171,7 +171,7 @@
 使用機器・技術
 
 - ネットワーク(Cisco Catalyst, Nexus)
-  - OSPF, VPC
+  - OSPF, vPC
 - セキュリティ機器(Juniper SRX)
   - IPSec VPN
 
