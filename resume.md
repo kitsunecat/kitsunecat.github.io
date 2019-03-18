@@ -7,7 +7,7 @@
 |氏名|西村　哲 (Nishimura Tetsu)|
 |生年月日|1986/01/16|
 |住所|東京都三鷹市（最寄り駅：JR三鷹駅）|
-|Twitter|[@tobinekodori](https://twitter.com/tobinekodori)|
+|Twitter|[@mantis_sensei](https://twitter.com/mantis_sensei)|
 |GitHub|[kitsunecat](https://github.com/kitsunecat)
 |Qiita|[kitsunecat](http://qiita.com/kitsunecat)|
 |Wantedly|[NishimuraTetsu](https://www.wantedly.com/users/17916821)
