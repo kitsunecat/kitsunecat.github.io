@@ -29,7 +29,7 @@
 
 | フレームワーク | 習得レベル |
 | -------------- | ---------- |
-| Ruby on Rails  | △          |
+| Ruby on Rails  | ◎          |
 | jQuery         | ◎          |
 | Vue.js         | ◎          |
 
@@ -40,8 +40,9 @@
 
 | OSS     | 習得レベル |
 | ------- | ---------- |
-| Nginx   | △          |
+| Nginx   | ○          |
 | Unicorn | △          |
+| Puma    | ○          |
 | squid   | ◎          |
 | postfix | ○          |
 
